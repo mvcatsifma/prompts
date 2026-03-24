@@ -1,6 +1,6 @@
 # Session Log
 
-## 2026-03-18
+## 2026-03-18 (work laptop)
 
 ### Repository Setup
 - Created `CLAUDE.md` documenting repository structure and patterns
@@ -43,3 +43,14 @@ Specialized: `/clarity`, `/code-review`, `/security`, `/observability`, `/writeu
 
 ### Settings
 - Disabled co-author attribution in `~/.claude/settings.json`
+
+## 2026-03-24 (second workstation)
+
+### Publication Prep
+- Added `LICENSE` (MIT)
+- Audited all prompts for sensitive content — clean
+- Verified `.gitignore` covers `.claude/`
+
+### Skills Setup
+- Created `~/.claude/skills/` and symlinked all 15 prompts as skills on this workstation
+- Skills confirmed working via `/skills` dialog
