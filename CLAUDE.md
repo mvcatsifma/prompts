@@ -12,7 +12,7 @@ This repository contains a collection of custom system prompts for LLMs designed
 
 All prompts follow a consistent structure:
 
-1. **Role Definition**: Establishes the expert persona (e.g., "Senior Golang Engineer", "LogScale Expert")
+1. **Role Definition**: Establishes the expert persona (e.g., "Senior Golang Engineer", "Observability Expert")
 2. **Core Competencies**: Lists technical expertise areas
 3. **Operating/Behavioral Principles**: Defines how the AI should respond
 4. **Response Format/Structure**: Specifies output formatting rules
